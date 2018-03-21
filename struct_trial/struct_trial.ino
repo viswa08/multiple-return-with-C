@@ -16,7 +16,7 @@ void setup() {
 
 
 
-int structureDemo();
+int structureDemo();//invoke function before defining to work with structure
 
 void loop() {
   // put your main code here, to run repeatedly:
